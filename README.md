@@ -1,8 +1,6 @@
 <h2> Hi, I'm Pedro Faria! </h2>
 <img align='right' src="https://media.giphy.com/media/kCi48UW0OoLvRVyMLK/giphy.gif" width="230">
 <img align='right' src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="160" style="margin-bottom: 60px;">
-<img align='right' src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="50" style="margin-bottom: 60px;">
-<img align='right' src="https://media.giphy.com/media/110dhxfJebYOTm/giphy.gif" width="185" style="margin-bottom: 100px;">
 <p><em>Senior Data Engineer 
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
